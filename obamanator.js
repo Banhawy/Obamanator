@@ -23,7 +23,9 @@ var obamas =
 	"https://media.giphy.com/media/HqhbTFSiL41H2/giphy.gif",
 	"https://i.kinja-img.com/gawker-media/image/upload/s--VDzrItB0--/c_scale,f_auto,fl_progressive,q_80,w_800/nxucxv3fbmvd8syaujg6.gif",
 	"https://media2.giphy.com/media/o15PHmvYmetdS/giphy.gif?response_id=5921763306be402873f4cfb8",
-	"https://media.giphy.com/media/ZeOB7RGM9M8Ew/giphy.gif"];
+	"https://media.giphy.com/media/ZeOB7RGM9M8Ew/giphy.gif",
+	"https://i.ytimg.com/vi/pP5oVTFz3lM/maxresdefault.jpg",
+	"https://s-media-cache-ak0.pinimg.com/originals/67/99/06/67990631035f42bbf8304af753abe6b1.gif"];
 
 obamanator(document.getElementsByTagName("img"));
 
